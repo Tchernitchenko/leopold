@@ -1,0 +1,44 @@
+/*--------------------------------------------------------------
+# Customizer styling, Leopold theme.
+--------------------------------------------------------------*/
+
+#accordion-section-footer-email span.description,
+#accordion-section-footer-phone span.description,
+#accordion-section-footer-options span.description {
+	color: #333;
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+}
+
+#accordion-section-footer-email input[type="text"],
+#accordion-section-footer-phone input[type="text"] {
+	margin-bottom: -5px;
+	padding: 10px;
+}
+
+#accordion-section-footer-email .customize-control-title,
+#accordion-section-footer-phone .customize-control-title {
+	border-bottom: 1px solid #DADADA;
+	font-family: 'Open Sans';
+	font-size: 16px;
+	margin-bottom: 12px;
+	margin-top: 25px;
+}
+
+#accordion-section-footer-email .customize-section-description,
+#accordion-section-footer-phone .customize-section-description,
+#accordion-section-category-colors .customize-section-description {
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-weight: 500;
+}
+
+li#accordion-section-footer-options textarea {
+	padding: 10px;
+}
+
+#customize-control-post-border-option {
+	border-top: 2px solid #dadada;
+	padding-top: 15px;
+}
